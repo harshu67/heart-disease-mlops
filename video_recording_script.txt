@@ -1,0 +1,13 @@
+Short Video Recording Script for Submission
+
+1. Show GitHub repository structure.
+2. Run: pip install -r requirements.txt
+3. Run: python src/data_acquisition.py
+4. Run: python src/train.py and show generated model files.
+5. Open MLflow UI and show logged runs, metrics, ROC curve and confusion matrix.
+6. Run: pytest tests/ -v and show tests passing.
+7. Run: docker build -t heart-disease-api:latest .
+8. Run: docker run -p 8000:8000 heart-disease-api:latest
+9. Open Swagger UI at http://localhost:8000/docs and test /predict.
+10. Show /metrics endpoint or Prometheus scraping output.
+11. Apply Kubernetes manifests and show kubectl get pods/services.
