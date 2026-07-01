@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/MLOps_Assignment_01_Ready_Submit/MLOps_Assignment_01_Ready_Submit/mlruns/818918415559561231/7e14c407474342328271ed450ba7c7d3/artifacts
+end_time: 1782932830227
+entry_point_name: ''
+experiment_id: '818918415559561231'
+lifecycle_stage: active
+run_id: 7e14c407474342328271ed450ba7c7d3
+run_name: logistic_regression
+run_uuid: 7e14c407474342328271ed450ba7c7d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782932822060
+status: 3
+tags: []
+user_id: User

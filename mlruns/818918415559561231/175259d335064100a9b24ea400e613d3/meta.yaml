@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/MLOps_Assignment_01_Ready_Submit/MLOps_Assignment_01_Ready_Submit/mlruns/818918415559561231/175259d335064100a9b24ea400e613d3/artifacts
+end_time: 1782932835861
+entry_point_name: ''
+experiment_id: '818918415559561231'
+lifecycle_stage: active
+run_id: 175259d335064100a9b24ea400e613d3
+run_name: random_forest
+run_uuid: 175259d335064100a9b24ea400e613d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782932830243
+status: 3
+tags: []
+user_id: User
