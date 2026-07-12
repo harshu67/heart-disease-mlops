@@ -20,7 +20,6 @@ This repository implements an end-to-end MLOps pipeline for heart disease risk c
 ## Project Structure
 
 ```text
-MLOps_Assignment_01_Ready_Submit/
 ├── api/                    # FastAPI serving code
 ├── data/                   # raw and processed data folders
 ├── k8s/                    # Kubernetes deployment/service YAML
@@ -100,15 +99,4 @@ kubectl get svc
 ```bash
 pytest tests/ -v
 ```
-
-## Notes for Submission
-
-Add your own screenshots in the `screenshots/` folder after running:
-
-- MLflow experiments page
-- API Swagger UI
-- Docker build and run command output
-- GitHub Actions workflow success
-- Kubernetes pods/services
-- Prometheus/Grafana dashboard or API metrics output
 
