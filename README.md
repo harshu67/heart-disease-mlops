@@ -27,7 +27,6 @@ This repository implements an end-to-end MLOps pipeline for heart disease risk c
 ├── notebooks/              # EDA and training notebook
 ├── src/                    # training, preprocessing and data scripts
 ├── tests/                  # unit tests
-├── report/                 # final report
 ├── .github/workflows/      # CI pipeline
 ├── Dockerfile
 ├── requirements.txt
